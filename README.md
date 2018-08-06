@@ -1,4 +1,4 @@
-# bash_scripts
+# split the csv file into files
 simple bash script for splitting text files
 
 assumes a header row exists and that you want it added to the resulting split files
